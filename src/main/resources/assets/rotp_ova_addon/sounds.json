@@ -1,0 +1,36 @@
+{
+  "Dio_Ova_The_World": {
+    "subtitle": "rotp_ova_addon.subtitle.The_World_Ova",
+    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_The_World", "rotp_ova_addon:stand_user/Dio_Ova_The_World_2" ]
+  },
+  "Dio_Ova_Time_Resume": {
+    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_Time_Resume", "rotp_ova_addon:stand_user/Dio_Ova_Time_Resume_2", "rotp_ova_addon:stand_user/Dio_Ova_Time_Resume_3" ]
+  },
+  "Dio_Ova_Die": {
+    "sounds": ["rotp_ova_addon:stand_user/Dio_Ova_Die", "rotp_ova_addon:stand_user/Dio_Ova_Die_2"]
+  },
+  "Dio_Ova_Times_Up": {
+    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_Times_Up", "rotp_ova_addon:stand_user/Dio_Ova_Times_Up_2" ]
+  },
+  "Dio_Ova_Time_Stop": {
+    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_Toki_Yo_Tomare", "rotp_ova_addon:stand_user/Dio_Ova_Toki_Yo_Tomare_2", "rotp_ova_addon:stand_user/Dio_Ova_Time_Stop","rotp_ova_addon:stand_user/Dio_Ova_Time_Stop_2", "rotp_ova_addon:stand_user/Dio_Ova_Time_Stop_3" ]
+  },
+  "The_World_Ova_Time_Stop": {
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Time_Stop", "rotp_ova_addon:stand/The_World_Ova_Time_Stop_2", "rotp_ova_addon:stand/The_World_Ova_Time_Stop_3", "rotp_ova_addon:stand/The_World_Ova_Time_Stop_4" ]
+  },
+  "The_World_Ova_Summon": {
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Summon", "rotp_ova_addon:stand/The_World_Ova_Summon_2", "rotp_ova_addon:stand/The_World_Ova_Summon_3" ]
+  },
+  "The_World_Ova_Unsummon": {
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Unsummon" ]
+  },
+  "The_World_Ova_Barrage": {
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Barrage", "rotp_ova_addon:stand/The_World_Ova_Barrage_2", "rotp_ova_addon:stand_user/Dio_Ova_Barrage" ]
+  },
+  "The_World_Ova_Ts_Blink": {
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Ts_Blink_3" ]
+  },
+  "The_World_Ova_Heavy_Punch": {
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Heavy_Punch" ]
+  }
+}
