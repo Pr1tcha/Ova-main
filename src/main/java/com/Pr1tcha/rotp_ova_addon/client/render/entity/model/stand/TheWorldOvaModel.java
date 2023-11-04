@@ -545,12 +545,11 @@ public class TheWorldOvaModel extends HumanoidStandModel<TheWorldOvaEntity> {
 		});
 
 		actionAnim.put(TheWorldOvaUltraPunch.ULTRA_PUNCH, new PosedActionAnimation.Builder<TheWorldOvaEntity>()
-				.addPose(StandEntityAction.Phase.BUTTON_HOLD, new ModelPoseTransitionMultiple.Builder<>(idlePose)
+				.addPose(StandEntityAction.Phase.BUTTON_HOLD, new ModelPoseTransition<>(idlePose, UltraPunchPose1))
+				.addPose(StandEntityAction.Phase.WINDUP, new ModelPoseTransitionMultiple.Builder<>(UltraPunchPose1)
 						.addPose(0.95F, UltraPunchPose1)
 						.addPose(1F, UltraPunchPose2)
 						.build(UltraPunchPose2))
-				.addPose(StandEntityAction.Phase.WINDUP, UltraPunchPose2)
-				.addPose(StandEntityAction.Phase.PERFORM, UltraPunchPose2)
 				.build(idlePose));
 
 

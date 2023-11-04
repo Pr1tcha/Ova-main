@@ -73,8 +73,10 @@ public class InitStands {
                     .setFinisherVariation(THE_WORLD_OVA_SMASH)
                     .shiftVariationOf(THE_WORLD_OVA_PUNCH).shiftVariationOf(THE_WORLD_OVA_BARRAGE)));
     public static final RegistryObject<StandEntityHeavyAttack> THE_WORLD_OVA_ULTRA_PUNCH = ACTIONS.register("The_World_Ova_Ultra_Punch",
-            () -> new TheWorldOvaUltraPunch(new StandEntityHeavyAttack.Builder().holdToFire(30, false).staminaCost(250)
+            () -> new TheWorldOvaUltraPunch(new StandEntityHeavyAttack.Builder().holdToFire(30, false).staminaCost(350)
+                    .resolveLevelToUnlock(4)
                     .standOffsetFromUser(0, 0.75, 0)
+                    .cooldown(1800, 1800, 1800)
                     .standPose(TheWorldOvaUltraPunch.ULTRA_PUNCH)
                     .standSound(StandEntityAction.Phase.WINDUP, InitSounds.THE_WORLD_OVA_ULTRA_PUNCH)
 
@@ -135,7 +137,7 @@ public static final RegistryObject<TimeStop> THE_WORLD_OVA_TIME_STOP = ACTIONS.r
                             .addOst(InitSounds.THE_WORLD_OVA_OST)),
 
                     InitEntities.ENTITIES, 
-                    () -> new StandEntityType<TheWorldOvaEntity>(TheWorldOvaEntity::new, 0.8F, 2.25F)
+                    () -> new StandEntityType<TheWorldOvaEntity>(TheWorldOvaEntity::new, 0.85F, 2.35F)
                     .summonSound(InitSounds.THE_WORLD_OVA_SUMMON)
                     .unsummonSound(InitSounds.THE_WORLD_OVA_UNSUMMON))
             .withDefaultStandAttributes();

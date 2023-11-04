@@ -28,7 +28,7 @@
     "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Barrage", "rotp_ova_addon:stand/The_World_Ova_Barrage_2", "rotp_ova_addon:stand_user/Dio_Ova_Barrage" ]
   },
   "The_World_Ova_Ts_Blink": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Ts_Blink_3" ]
+    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Ts_Blink" ]
   },
   "The_World_Ova_Heavy_Punch": {
     "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Heavy_Punch" ]
