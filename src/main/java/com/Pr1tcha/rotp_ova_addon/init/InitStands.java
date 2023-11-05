@@ -128,9 +128,9 @@ public static final RegistryObject<TimeStop> THE_WORLD_OVA_TIME_STOP = ACTIONS.r
                             .tier(6)
                             .power(17.0)
                             .speed(16.0)
-                            .range(1.5, 2.0)
+                            .range(2.5, 3.5)
                             .durability(16.5)
-                            .precision(15.5)
+                            .precision(16.0)
                             .build("The World (Ova)"),
 
                             new StandType.StandTypeOptionals()
