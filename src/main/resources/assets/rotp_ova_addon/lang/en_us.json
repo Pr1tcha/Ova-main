@@ -1,13 +1,13 @@
 {
-  "entity.rotp_ova_addon.The_World_Ova": "The World (OVA)",
-  "stand.rotp_ova_addon.The_World_Ova": "The World (OVA)",
-  "action.rotp_ova_addon.The_World_Ova_Punch": "Punch",
-  "action.rotp_ova_addon.The_World_Ova_Heavy_Punch": "Heavy Punch",
-  "action.rotp_ova_addon.The_World_Ova_Ts_Blink": "Time Skip",
-  "action.rotp_ova_addon.The_World_Ova_Time_Stop": "Time Stop",
-  "action.rotp_ova_addon.The_World_Ova_Ultra_Punch": "DIE",
-  "action.rotp_ova_addon.The_World_Ova_Barrage": "Barrage",
-  "action.rotp_ova_addon.The_World_Ova_Block": "Block",
-  "action.rotp_ova_addon.The_World_Ova_Time_Resume": "Time Resume",
-  "rotp_ova_addon.subtitle.The_World_Ova": "\"The World (OVA)\""
+  "entity.rotp_ova_addon.the_world_ova": "The World (OVA)",
+  "stand.rotp_ova_addon.the_world_ova": "The World (OVA)",
+  "action.rotp_ova_addon.the_world_ova_punch": "Punch",
+  "action.rotp_ova_addon.the_world_ova_heavy_punch": "Heavy Punch",
+  "action.rotp_ova_addon.the_world_ova_ts_blink": "Time Skip",
+  "action.rotp_ova_addon.the_world_ova_time_stop": "Time Stop",
+  "action.rotp_ova_addon.the_world_ova_ultra_punch": "DIE",
+  "action.rotp_ova_addon.the_world_ova_barrage": "Barrage",
+  "action.rotp_ova_addon.the_world_ova_block": "Block",
+  "action.rotp_ova_addon.the_world_ova_time_resume": "Time Resume",
+  "rotp_ova_addon.subtitle.the_world_ova": "\"The World (OVA)\""
 }

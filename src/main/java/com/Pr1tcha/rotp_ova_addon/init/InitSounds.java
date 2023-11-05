@@ -15,48 +15,48 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class InitSounds {
     public static final DeferredRegister<SoundEvent> SOUNDS = DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, RotpOvaAddon.MOD_ID);
 
-    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_SUMMON = SOUNDS.register("The_World_Ova_Summon",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Summon")));
+    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_SUMMON = SOUNDS.register("the_world_ova_summon",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_summon")));
 
-    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_UNSUMMON = SOUNDS.register("The_World_Ova_Unsummon",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Unsummon")));
+    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_UNSUMMON = SOUNDS.register("the_world_ova_unsummon",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_unsummon")));
     
     public static final Supplier<SoundEvent> THE_WORLD_OVA_PUNCH_LIGHT = ModSounds.STAND_PUNCH_LIGHT;
     
-    public static final Supplier<SoundEvent> THE_WORLD_OVA_HEAVY_PUNCH = SOUNDS.register("The_World_Ova_Heavy_Punch",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Heavy_Punch")));
+    public static final Supplier<SoundEvent> THE_WORLD_OVA_HEAVY_PUNCH = SOUNDS.register("the_world_ova_heavy_punch",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_heavy_punch")));
     
-    public static final Supplier<SoundEvent> THE_WORLD_OVA_BARRAGE = SOUNDS.register("The_World_Ova_Barrage",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Barrage")));
-    public static final Supplier<SoundEvent> THE_WORLD_OVA_ULTRA_PUNCH = SOUNDS.register("The_World_Ova_Ultra_Punch",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Ultra_Punch")));
-    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_TIME_STOP = SOUNDS.register("The_World_Ova_Time_Stop",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Time_Stop")));
-    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_TIME_STOP_BLINK = SOUNDS.register("The_World_Ova_Ts_Blink",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Ts_Blink")));
-    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_BARRAGE_HIT = SOUNDS.register("The_World_Ova_Barrage_Hit",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Barrage_Hit")));
-    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_TIME_RESUME = SOUNDS.register("The_World_Ova_Time_Resume",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "The_World_Ova_Time_Resume")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_THE_WORLD = SOUNDS.register("Dio_Ova_The_World",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_The_World")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_TIME_STOP = SOUNDS.register("Dio_Ova_Time_Stop",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Time_Stop")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_CANT_MOVE = SOUNDS.register("Dio_Ova_Cant_Move",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Cant_Move")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_TIME_RESUMES = SOUNDS.register("Dio_Ova_Time_Resume",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Time_Resume")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_APPEAR = SOUNDS.register("Dio_Ova_Appear",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Appear")));
-    public static final RegistryObject<SoundEvent> DIO_THE_WORLD_OVA = SOUNDS.register("Dio_The_World_Ova",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_The_World_Ova")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_DIE = SOUNDS.register("Dio_Ova_Die",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Die")));
-    public static final RegistryObject<SoundEvent> DIO_OVA_BARRAGE = SOUNDS.register("Dio_Ova_Barrage",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Barrage")));
+    public static final Supplier<SoundEvent> THE_WORLD_OVA_BARRAGE = SOUNDS.register("the_world_ova_barrage",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_barrage")));
+    public static final Supplier<SoundEvent> THE_WORLD_OVA_ULTRA_PUNCH = SOUNDS.register("the_world_ova_ultra_punch",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_ultra_punch")));
+    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_TIME_STOP = SOUNDS.register("the_world_ova_time_stop",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_time_stop")));
+    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_TIME_STOP_BLINK = SOUNDS.register("the_world_ova_ts_blink",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_ts_blink")));
+    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_BARRAGE_HIT = SOUNDS.register("the_world_ova_barrage_hit",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_barrage_hit")));
+    public static final RegistryObject<SoundEvent> THE_WORLD_OVA_TIME_RESUME = SOUNDS.register("the_world_ova_time_resume",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_time_resume")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_THE_WORLD = SOUNDS.register("dio_ova_the_world",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_the_world")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_TIME_STOP = SOUNDS.register("dio_ova_time_stop",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_time_stop")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_CANT_MOVE = SOUNDS.register("dio_ova_cant_move",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_cant_move")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_TIME_RESUMES = SOUNDS.register("dio_ova_time_resume",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_time_resume")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_APPEAR = SOUNDS.register("dio_ova_appear",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_appear")));
+    public static final RegistryObject<SoundEvent> DIO_THE_WORLD_OVA = SOUNDS.register("dio_the_world_ova",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_the_world_ova")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_DIE = SOUNDS.register("dio_ova_die",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_die")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_BARRAGE = SOUNDS.register("dio_ova_barrage",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_barrage")));
 
-    public static final RegistryObject<SoundEvent> DIO_OVA_TIMES_UP = SOUNDS.register("Dio_Ova_Times_Up",
-            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "Dio_Ova_Times_Up")));
+    public static final RegistryObject<SoundEvent> DIO_OVA_TIMES_UP = SOUNDS.register("dio_ova_times_up",
+            () -> new SoundEvent(new ResourceLocation(RotpOvaAddon.MOD_ID, "dio_ova_times_up")));
 
 
     static final OstSoundList THE_WORLD_OVA_OST = new OstSoundList(new ResourceLocation(RotpOvaAddon.MOD_ID, "the_world_ova_ost"), SOUNDS);

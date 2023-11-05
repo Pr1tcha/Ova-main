@@ -34,7 +34,7 @@ import net.minecraft.world.World;
 
 
 public class TheWorldOvaUltraPunch extends StandEntityHeavyAttack {
-    public static final StandPose ULTRA_PUNCH = new StandPose("ULTRA_PUNCH");
+    public static final StandPose ULTRA_PUNCH = new StandPose("ultra_punch");
 
 
     public TheWorldOvaUltraPunch(Builder builder) {

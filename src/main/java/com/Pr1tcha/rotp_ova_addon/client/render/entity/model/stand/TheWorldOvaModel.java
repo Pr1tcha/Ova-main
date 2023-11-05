@@ -525,22 +525,29 @@ public class TheWorldOvaModel extends HumanoidStandModel<TheWorldOvaEntity> {
 
 		ModelPose<TheWorldOvaEntity> UltraPunchPose1 = new ModelPose<>(new RotationAngle[] {
 
-				RotationAngle.fromDegrees(upperPart, 0, 65, 0),
-				RotationAngle.fromDegrees(leftArm, -59.44583F, -14.58284F, 38.36478F),
-				RotationAngle.fromDegrees(rightArm, -68.15F, 41.54F, -44.95F),
-				RotationAngle.fromDegrees(leftLeg, 7.56397F, 7.43547F, -1.51552F),
-				RotationAngle.fromDegrees(rightLeg, 12.14787F, 34.39275F, 11.93255F)
+				RotationAngle.fromDegrees(body, 0, 35, 0),
+				RotationAngle.fromDegrees(upperPart, 0, 35, 0),
+				RotationAngle.fromDegrees(leftArm, 32.5F, 0, 0),
+				RotationAngle.fromDegrees(leftForeArm, -52.5F, 0, 0),
+				RotationAngle.fromDegrees(rightArm, 28.88636F, -15.58394F, 25.96295F),
+				RotationAngle.fromDegrees(rightForeArm, -60, 0, 0),
+				RotationAngle.fromDegrees(leftLeg, 10, 0, -7.5F),
+				RotationAngle.fromDegrees(leftLowerLeg, 10, 0, 0),
+				RotationAngle.fromDegrees(rightLeg, 25, 0, 10),
+				RotationAngle.fromDegrees(rightLowerLeg, 15, 0, 0)
 
 		});
 		ModelPose<TheWorldOvaEntity> UltraPunchPose2 = new ModelPose<>(new RotationAngle[] {
 
-				RotationAngle.fromDegrees(upperPart, 0, -32.5F, 0),
-				RotationAngle.fromDegrees(leftArm, -61.60643F, 18.67074F, -15.36925F),
-				RotationAngle.fromDegrees(leftForeArm, 5.49932F, -3.27344F, 27.08386F),
-				RotationAngle.fromDegrees(rightArm, -101.42713F, 36.15228F, -81.83513F),
-				RotationAngle.fromDegrees(rightForeArm, -9.53197F, 23.29476F, -30.3074F),
-				RotationAngle.fromDegrees(leftLeg, 7.7614F, -14.8687F, -4.50307F),
-				RotationAngle.fromDegrees(rightLeg, 10.08453F, 7.38542F, 6.30962F)
+				RotationAngle.fromDegrees(body, 0, -20, 0),
+				RotationAngle.fromDegrees(upperPart, 0, -30, 0),
+				RotationAngle.fromDegrees(leftArm, 0, 0, -20),
+				RotationAngle.fromDegrees(leftForeArm, -31.70243F, -15.10504F, 24.93934F),
+				RotationAngle.fromDegrees(rightArm, -16.42141F, 25.23304F, 26.12805F),
+				RotationAngle.fromDegrees(rightForeArm, -42.5F, 0, 0),
+				RotationAngle.fromDegrees(leftLowerLeg, 15, 0, 0),
+				RotationAngle.fromDegrees(rightLeg, 10, 0, 10),
+				RotationAngle.fromDegrees(rightLowerLeg, 32.5F, 0, 0)
 
 		});
 

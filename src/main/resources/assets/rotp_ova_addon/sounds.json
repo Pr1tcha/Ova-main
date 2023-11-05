@@ -1,36 +1,36 @@
 {
-  "Dio_Ova_The_World": {
-    "subtitle": "rotp_ova_addon.subtitle.The_World_Ova",
-    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_The_World", "rotp_ova_addon:stand_user/Dio_Ova_The_World_2" ]
+  "dio_ova_the_world": {
+    "subtitle": "rotp_ova_addon.subtitle.the_world_ova",
+    "sounds": [ "rotp_ova_addon:stand_user/dio_ova_the_world", "rotp_ova_addon:stand_user/dio_ova_the_world_2" ]
   },
-  "Dio_Ova_Time_Resume": {
-    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_Time_Resume", "rotp_ova_addon:stand_user/Dio_Ova_Time_Resume_2", "rotp_ova_addon:stand_user/Dio_Ova_Time_Resume_3" ]
+  "dio_ova_time_resume": {
+    "sounds": [ "rotp_ova_addon:stand_user/dio_ova_time_resume", "rotp_ova_addon:stand_user/dio_ova_time_resume_2", "rotp_ova_addon:stand_user/dio_ova_time_resume_3" ]
   },
-  "Dio_Ova_Die": {
-    "sounds": ["rotp_ova_addon:stand_user/Dio_Ova_Die", "rotp_ova_addon:stand_user/Dio_Ova_Die_2"]
+  "dio_ova_die": {
+    "sounds": ["rotp_ova_addon:stand_user/dio_ova_die", "rotp_ova_addon:stand_user/dio_ova_die_2"]
   },
-  "Dio_Ova_Times_Up": {
-    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_Times_Up", "rotp_ova_addon:stand_user/Dio_Ova_Times_Up_2" ]
+  "dio_ova_times_up": {
+    "sounds": [ "rotp_ova_addon:stand_user/dio_ova_times_up", "rotp_ova_addon:stand_user/dio_ova_times_up_2" ]
   },
-  "Dio_Ova_Time_Stop": {
-    "sounds": [ "rotp_ova_addon:stand_user/Dio_Ova_Toki_Yo_Tomare", "rotp_ova_addon:stand_user/Dio_Ova_Toki_Yo_Tomare_2", "rotp_ova_addon:stand_user/Dio_Ova_Time_Stop","rotp_ova_addon:stand_user/Dio_Ova_Time_Stop_2", "rotp_ova_addon:stand_user/Dio_Ova_Time_Stop_3" ]
+  "dio_ova_time_stop": {
+    "sounds": [ "rotp_ova_addon:stand_user/dio_ova_toki_yo_tomare", "rotp_ova_addon:stand_user/dio_ova_toki_yo_tomare_2", "rotp_ova_addon:stand_user/dio_ova_time_stop","rotp_ova_addon:stand_user/dio_ova_time_stop_2", "rotp_ova_addon:stand_user/dio_ova_time_stop_3" ]
   },
-  "The_World_Ova_Time_Stop": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Time_Stop", "rotp_ova_addon:stand/The_World_Ova_Time_Stop_2", "rotp_ova_addon:stand/The_World_Ova_Time_Stop_3", "rotp_ova_addon:stand/The_World_Ova_Time_Stop_4" ]
+  "the_world_ova_time_stop": {
+    "sounds": [ "rotp_ova_addon:stand/the_world_ova_time_stop", "rotp_ova_addon:stand/the_world_ova_time_stop_2", "rotp_ova_addon:stand/the_world_ova_time_stop_3", "rotp_ova_addon:stand/the_world_ova_time_stop_4" ]
   },
-  "The_World_Ova_Summon": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Summon", "rotp_ova_addon:stand/The_World_Ova_Summon_2", "rotp_ova_addon:stand/The_World_Ova_Summon_3" ]
+  "the_world_ova_summon": {
+    "sounds": [ "rotp_ova_addon:stand/the_world_ova_summon", "rotp_ova_addon:stand/the_world_ova_summon_2", "rotp_ova_addon:stand/the_world_ova_summon_3" ]
   },
-  "The_World_Ova_Unsummon": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Unsummon" ]
+  "the_world_ova_unsummon": {
+    "sounds": [ "rotp_ova_addon:stand/the_world_ova_unsummon" ]
   },
-  "The_World_Ova_Barrage": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Barrage", "rotp_ova_addon:stand/The_World_Ova_Barrage_2", "rotp_ova_addon:stand_user/Dio_Ova_Barrage" ]
+  "the_world_ova_barrage": {
+    "sounds": [ "rotp_ova_addon:stand/the_world_ova_barrage", "rotp_ova_addon:stand/the_world_ova_barrage_2", "rotp_ova_addon:stand_user/dio_ova_barrage" ]
   },
-  "The_World_Ova_Ts_Blink": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Ts_Blink" ]
+  "the_world_ova_ts_blink": {
+    "sounds": [ "rotp_ova_addon:stand/the_world_ova_ts_blink" ]
   },
-  "The_World_Ova_Heavy_Punch": {
-    "sounds": [ "rotp_ova_addon:stand/The_World_Ova_Heavy_Punch" ]
+  "the_world_ova_heavy_punch": {
+    "sounds": [ "rotp_ova_addon:stand/the_world_ova_heavy_punch" ]
   }
 }
