@@ -10,7 +10,7 @@
     "sounds": ["rotp_ova_addon:stand_user/dio_ova_die", "rotp_ova_addon:stand_user/dio_ova_die_2"]
   },
   "dio_ova_times_up": {
-    "sounds": [ "rotp_ova_addon:stand_user/dio_ova_times_up", "rotp_ova_addon:stand_user/dio_ova_times_up_2" ]
+    "sounds": [ "rotp_ova_addon:stand_user/dio_ova_times_up" ]
   },
   "dio_ova_time_stop": {
     "sounds": [ "rotp_ova_addon:stand_user/dio_ova_toki_yo_tomare", "rotp_ova_addon:stand_user/dio_ova_toki_yo_tomare_2", "rotp_ova_addon:stand_user/dio_ova_time_stop","rotp_ova_addon:stand_user/dio_ova_time_stop_2", "rotp_ova_addon:stand_user/dio_ova_time_stop_3" ]
